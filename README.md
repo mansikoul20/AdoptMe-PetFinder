@@ -1,4 +1,4 @@
-# Project Title
+# Pet-Finder
 
 • Developed a real-world application called Pet Finder, using tools from the React ecosystem (like Reach Router) to build a full application to browse adoptable pets.
 
